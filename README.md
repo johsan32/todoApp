@@ -4,7 +4,7 @@
 
 
 ## Preview
-![print-screen](screen.PNG)
+![print-screen](screen.png)
 
 ![gif](gif.gif)
 
